@@ -11,7 +11,6 @@ tags:
 暱稱: 可樂、阿公
 興趣: 喝酒(每天都喝!!!!)
 
-![](pic.png)
-![](packman.jpg)
+![](panda.png)
 
 
